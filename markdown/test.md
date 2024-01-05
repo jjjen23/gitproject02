@@ -1,4 +1,4 @@
 # 홈
-[home](README.md)
+[home](../README.md)
 
 
